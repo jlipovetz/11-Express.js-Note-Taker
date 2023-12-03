@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Test Note",
+        "text": "Works",
+        "id": "464f0698-9539-416b-b3fb-6afc8915498f"
+    },
+    {
+        "title": "New Note",
+        "text": "Works",
+        "id": "95e799bf-7182-4479-a7ee-1ca4c7f3f001"
+    },
+    {
+        "title": "Sample Note",
+        "text": "Works\n",
+        "id": "b065b728-e530-461b-b193-a9019ac5fcc5"
+    }
+]
